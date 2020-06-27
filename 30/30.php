@@ -13,7 +13,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/30.css">
-    <link rel="stylesheet" href="fonts/css/all.min.css">
+    <link rel="stylesheet" href="fonts/all.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title>30 sreenshort</title>
 </head>
